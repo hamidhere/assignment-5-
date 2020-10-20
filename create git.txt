@@ -1,2 +1,3 @@
-version five
+version 6
+how to pull changes from git hub  
 
